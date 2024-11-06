@@ -11,7 +11,7 @@
 
 **ORCID:** [My ORCID ID]()
 
-**GitHub:** [My GITHUB]([https://github.com/SakuraHana01])
+**GitHub:** [My GITHUB](mailto:https://github.com/SakuraHana01)
 
 **LinkedIn:** [My LinkedIn]()
 
