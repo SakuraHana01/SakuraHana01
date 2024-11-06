@@ -30,7 +30,7 @@ I am a undergrad student in Computer Science at Harbin Institute of Technology, 
 
 ## Education
 
-- **B.Sc. in Computer Science**  - **理学士计算机科学博士**
+- **B.Sc. in Computer Science**
   Harbin Institute of Technology, Shenzhen, 2023 - precent
 
 ---
