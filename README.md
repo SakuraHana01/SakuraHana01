@@ -5,9 +5,9 @@
 **Affiliation:** Harbin Institute of Technology, Shenzhen 
 **Research Interests:**  
 **Google Scholar:** []()
-**ORCID:** [My ORCID ID]()  **ORCID:****ORCID:** [我的 ORCID ID]() **ORCID:**
+**ORCID:** [My ORCID ID]()
 **GitHub:** [My GitHub]([https://github.com/your-github](https://github.com/SakuraHana01))
-**LinkedIn:** [My LinkedIn]()**LinkedIn：** [您的 LinkedIn]()
+**LinkedIn:** [My LinkedIn]()
 
 ---
 
